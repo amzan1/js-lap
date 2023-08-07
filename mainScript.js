@@ -1,10 +1,10 @@
-// const date = new Date();
-// const day = date.getDate();
-// const month = date.getMonth() +1;
-// const myday=12;
-// const mymonth=8;
-// let re = day == myday && month == mymonth;
-// console.log(re);
+const date = new Date();
+const day = date.getDate();
+const month = date.getMonth() +1;
+const myday=12;
+const mymonth=8;
+let re = day == myday && month == mymonth;
+console.log(re);
 let num=15;
 
 if(num%2==0)
